@@ -1,6 +1,6 @@
 package Operadores;
 
-public class Aula4 {
+public class Aula04 {
     public static void main(String[] args) {
         // Operador || (or)
         double valorTotalContaCorrente = 200;

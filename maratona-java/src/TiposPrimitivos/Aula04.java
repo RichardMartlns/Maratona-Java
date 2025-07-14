@@ -1,6 +1,6 @@
 package TiposPrimitivos;
 
-public class Aula4 {
+public class Aula04 {
     public static void main(String[] args) {
 
         // String é uma classe no java, strings sempre utiliza aspas duplas

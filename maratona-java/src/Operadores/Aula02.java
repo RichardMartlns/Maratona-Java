@@ -1,6 +1,6 @@
 package Operadores;
 
-public class Aula2 {
+public class Aula02 {
     public static void main(String[] args) {
         // % = resto da divisão
         int resto = 20 % 2;

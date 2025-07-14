@@ -1,6 +1,6 @@
 package Operadores;
 
-public class Aula3 {
+public class Aula03 {
     public static void main(String[] args) {
         // Operadores logicos && (and), || (or), ! (not)
 

@@ -1,6 +1,6 @@
 package Operadores;
 
-public class Aula1 {
+public class Aula01 {
     public static void main(String[] args) {
        // Operadores basicos + - / *
         int num1 = 10;

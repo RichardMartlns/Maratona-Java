@@ -1,6 +1,6 @@
 package TiposPrimitivos;
 
-public class Aula3 {
+public class Aula03 {
     public static void main(String[] args) {
 
        // forçar um casting, par aquele valor entrar porem ele corta para caber
